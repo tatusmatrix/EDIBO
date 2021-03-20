@@ -1,2 +1,8 @@
 # EDIBO
-EDIBO (3. grupa) projekta elektroniska klade
+EDIBO projekta elektroniska klade
+Noderīgas git komandas:
+```
+git status
+git add
+git commit
+```

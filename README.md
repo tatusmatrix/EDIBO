@@ -1,5 +1,5 @@
 # EDIBO
-EDIBO projekta elektroniska klade
+EDIBO projekta elektroniska klade  
 Noderīgas git komandas:
 ```
 git status
